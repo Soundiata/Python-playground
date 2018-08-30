@@ -35,6 +35,9 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+# VS Code configuration folder
+.vscode/
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
